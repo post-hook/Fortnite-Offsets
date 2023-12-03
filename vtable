@@ -1,0 +1,14 @@
+VTables:
+[NEW] DrawTransition: 0x70 [112]
+[NEW] ViewportClient: 0x71 [113]
+[NEW] PostRender: 0x6F [111]
+[NEW] ProcessEvent: 0x4C [76]
+GetPlayerViewPoint: 0x7F0
+SetControlRotation: 0x760
+GetCameraLocation: 0x808
+GetCameraRotation: 0x800
+GetFOVAngle: 0x7C0
+LineOfSightTo: 0x770
+[NEW] AddPitchInput: 0xCF0
+[NEW] ClientSetCameraMode: 0xA08
+[NEW] AddYawInput: 0xCF8
