@@ -1,4 +1,4 @@
-# Fortnite 28.00
+
 
 Signatures:
 [NEW] GWorld: 48 89 05 ? ? ? ? 44 38 3D ? ? ? ?
