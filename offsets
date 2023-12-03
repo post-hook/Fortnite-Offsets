@@ -1,0 +1,23 @@
+Offsets: [ALL NEW]
+UWorld: 0x1123AF78
+FreeFn: 0xC566C28
+GetBoneMatrix: 0x149B864
+ProjectWorldToScreen: 0x35BD6A8
+GObjects: 0x11213D40
+GetNameByIndex: 0x1004854
+LineOfSightTo: 0x65403D0
+StaticFindObject: 0x3EDBF1C
+
+Other New Offsets:
+RelativeLocation: 0x120
+RelativeRotation: 0x138
+OwningGameInstance: 0x1D0
+WeaponData: 0x4A8
+ComponentVelocity: 0x168
+SeasonLevelUIDisplay: 0x10F8
+CurrentWeapon: 0xA20
+CurrentVehicle: 0x2840
+CachedFuelComponent: 0x1250
+CustomTimeDilation: 0x68
+BIgnoreTryToFireSlotCooldownRestriction: 0x1359
+GlobalAnimRateScale: 0xA68
